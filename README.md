@@ -124,6 +124,6 @@ python zenfolio_gui_downloader.py
 
 🧾 License
 
-MIT License © 2025 Kenneth N. Rood
+MIT License © 2025 Kennyroody
 
 You’re free to modify and redistribute — just credit the original author.
